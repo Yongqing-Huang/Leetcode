@@ -1,5 +1,7 @@
 # Leetcode
 
+All solved problems are listed below.
+
 ## Contents
 - [Problems](#problems)
 - [Daily Challenges](#daily-challenges)
@@ -30,7 +32,11 @@ Solution: [here](Problems/4-Median_of_Two_Arr/Solution_4.cpp) \
 Result: [here](Problems/4-Median_of_Two_Arr/Result_4.png)\
 [Q4 Leetcode Link](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
-
+#### 5. Longest Palindromic Substring
+Problem: [here](Problems/5-Longest_Palindromic_Substring/Problem_5.md) \
+Solution: [here](Problems/5-Longest_Palindromic_Substring/Solution_5.cpp) \
+<!-- Result: [here](Problems/4-Median_of_Two_Arr/Result_4.png)\ -->
+[Q5 Leetcode Link](https://leetcode.com/problems/longest-palindromic-substring/)
 
 
 
@@ -61,3 +67,8 @@ Result: [here]()\
 [Leetcode Link](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/?envType=daily-question&envId=2024-10-11)
 
 
+#### 10/23/2024 Problem #951
+Problem: [here](Daily_Challenge/10.23.2024-Q951/Problem_951.md)\
+Solution: [here](Daily_Challenge/10.23.2024-Q951/Solution951.cpp)\
+Result: [here]()\
+[Leetcode Link](https://leetcode.com/problems/flip-equivalent-binary-trees/)
