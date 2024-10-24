@@ -32,11 +32,36 @@ Solution: [here](Problems/4-Median_of_Two_Arr/Solution_4.cpp) \
 Result: [here](Problems/4-Median_of_Two_Arr/Result_4.png)\
 [Q4 Leetcode Link](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
+<!-- TODO: Result 5-9 -->
 #### 5. Longest Palindromic Substring
 Problem: [here](Problems/5-Longest_Palindromic_Substring/Problem_5.md) \
 Solution: [here](Problems/5-Longest_Palindromic_Substring/Solution_5.cpp) \
 <!-- Result: [here](Problems/4-Median_of_Two_Arr/Result_4.png)\ -->
 [Q5 Leetcode Link](https://leetcode.com/problems/longest-palindromic-substring/)
+
+#### 6. Zigzag Conversion
+Problem: [here](Problems/6-Zigzag_Conversion/Problem_6.md) \
+Solution: [here](Problems/6-Zigzag_Conversion/Solution_6.cpp) \
+<!-- Result: [here](Problems/4-Median_of_Two_Arr/Result_4.png)\ -->
+[Q6 Leetcode Link](https://leetcode.com/problems/zigzag-conversion/description/)
+
+#### 7. Reverse Integer
+Problem: [here](Problems/7-Reverse_Integer/Problem_7.md) \
+Solution: [here](Problems/7-Reverse_Integer/Solution_7.cpp) \
+<!-- Result: [here](Problems/4-Median_of_Two_Arr/Result_4.png)\ -->
+[Q7 Leetcode Link](https://leetcode.com/problems/reverse-integer/)
+
+#### 8. String to Integer (atoi)
+Problem: [here](Problems/8-String_to_Integer/Problem_8.md) \
+Solution: [here](Problems/8-String_to_Integer/Solution_8.cpp) \
+<!-- Result: [here](Problems/4-Median_of_Two_Arr/Result_4.png)\ -->
+[Q8 Leetcode Link](https://leetcode.com/problems/string-to-integer-atoi/)
+
+#### 9. Palindrome Number
+Problem: [here](Problems/9-Palindrome_Number/Problem_9.md) \
+Solution: [here](Problems/9-Palindrome_Number/Solution_9.cpp) \
+<!-- Result: [here](Problems/4-Median_of_Two_Arr/Result_4.png)\ -->
+[Q5 Leetcode Link](htthttps://leetcode.com/problems/palindrome-number/)
 
 
 
@@ -67,7 +92,7 @@ Result: [here]()\
 [Leetcode Link](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/?envType=daily-question&envId=2024-10-11)
 
 
-#### 10/23/2024 Problem #951
+#### 10/24/2024 Problem #951
 Problem: [here](Daily_Challenge/10.23.2024-Q951/Problem_951.md)\
 Solution: [here](Daily_Challenge/10.23.2024-Q951/Solution951.cpp)\
 Result: [here]()\
